@@ -10,7 +10,7 @@ Whilst known genetic causes are identified in human pregnancy loss during early 
 
 Content
 =======
-/cobatch/: analysis of cobatch H3K27ac data
+/CoBATCH/: analysis of cobatch H3K27ac data
 
 /scRNA/: analysis of single-cell RNA expression data
 
