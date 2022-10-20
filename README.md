@@ -10,9 +10,14 @@ Whilst known genetic causes are identified in human pregnancy loss during early 
 
 Content
 =======
+/cobatch/: analysis of cobatch H3K27ac data
+/scRNA/: analysis of single-cell RNA expression data
+/Two omics intergration/: intergrated analysis of RNA expression and cobatch H3K27ac data
 
 Data
 ======
+The sequencing data have been deposited at the National Genomics Data Center database with the accession number HRA001886. 
+Those data can be obtained upon request for researchers who meet the criteria for access to confidential data.
 
 Contact
 =======
