@@ -1,5 +1,5 @@
 # Single-cell transcriptomic and epigenetic analysis of the human maternal-fetal interface with unexplained spontaneous miscarriage 
-single cell transcriptome analysis  for villi sample in USM
+single cell transcriptome and epigenetic analysis  for villi sample in USM
 This repository contains the scripts to reproduce the results of the manuscript “Single-cell transcriptomic and epigenetic analysis of the human maternal-fetal interface with unexplained spontaneous miscarriage”
 
 Abstract
